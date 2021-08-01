@@ -1,0 +1,83 @@
+/********************   LANDING PAGE   ********************/
+html {
+  height: 100%;
+}
+
+.hero-image {
+	background-image: url('/assets/images/landing_page/samuele-errico-piccarini-MyjVReZ5GLQ-unsplash.jpg');
+  background-color: #000;
+  height: 32rem;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	color: #e7ecef;
+	text-shadow: #274c77 2px 2px;
+  padding-top: 10px;
+  -webkit-filter: opacity(.9);
+  filter: opacity(.9);
+}
+
+/*   LINK TO LIBRARY   */
+.hero-title a {
+  font-size: 75px;
+  font-family: 'Fjalla One', sans-serif;
+  text-decoration: none;
+  color: #FFF;
+  text-shadow:
+    0 0  5px #6E6685,
+    0 0  10px #6E6685,
+    0 0  15px #6E6685,
+    0 0  20px #fff,
+    0 0  35px #fff,
+    0 0  40px #fff,
+    0 0  60px #fff,
+    0 0  90px #fff;
+}
+
+/*   Mid section   */
+.app-name {
+	font-size: 3.125rem;
+  font-family: 'Fjalla One', sans-serif;
+  margin: 2.5em 0;
+	color: #393A4A;
+}
+
+/*   Selling-points section   */
+.selling-points img {
+
+  -webkit-filter: opacity(.9); /* Safari 6.0 - 9.0 */
+    filter: opacity(.9);
+  border-radius: 6px;
+  box-shadow:
+    0 16px 38px -12px rgba(0, 0, 0, 0.56),
+    0 4px 25px 0px rgba(0, 0, 0, 0.12),
+    0 8px 10px -5px rgba(0, 0, 0, 0.2);
+}
+
+.container-fluid {
+	background-color: #393A4A;
+}
+
+.point-description {
+  color: #FCFBFB;
+  font-family: 'Raleway', sans-serif;
+}
+
+/*    Icons    */
+.selling-points .col-lg-3 ion-icon {
+	height: 75px;
+	width: 225px;
+	padding: 10px 0;
+}
+
+.music-note {
+	color: #F36D53;
+}
+
+.streaming-icon {
+	color: #9FCE7F;
+}
+
+.phone-icon {
+	color: #9D9EAF;
+}
