@@ -1,4 +1,4 @@
-## Formerly known as Bloc-Jams. This is a SPA music player built with React.js from the ground-up. Similar to Spotify. This was the first web app project that I built while undergoing the Bloc curriculum.
+## Formerly known as React- Apps. This is a music player built with React.js from the ground-up. Similar to Spotify. This was the first web app project that I built for Javascript Mastery
 
 ## List of features:
 * Plays music (of course)
@@ -17,7 +17,6 @@
 * Ionicons - for icons such as play/pause/etc.
 * FontAwesomeIcon - for other icons
 
-## Check out the Live Version at https://lmariemeehan-bloc-jams-react.herokuapp.com
 
 
 #### Curious about React? See below:
